@@ -1,9 +1,10 @@
+This is just a text file, and I am using it for training purposes. Here's a sonnet: 
 
 Let me not to the marriage of true minds
 Admit impediments. Love is not love
 Which alters when it alteration finds,
 Or bends with the remover to remove:
-
+O no! it is an ever-fixed mark
 That looks on tempests and is never shaken;
 It is the star to every wandering bark,
 Whose worth's unknown, although his height be taken.
